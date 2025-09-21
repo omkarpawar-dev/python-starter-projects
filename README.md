@@ -30,5 +30,6 @@ A fun guessing game where the computer picks a random number between 1 and 20, a
 ## 🚀 How to Run a Project
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/python-starter-projects.git
-   cd python-starter-projects
+   git clone https://github.com/OmkarPawar2005/python-starter-projects.git
+cd python-starter-projects
+
