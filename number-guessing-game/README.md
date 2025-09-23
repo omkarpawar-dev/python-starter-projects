@@ -1,6 +1,6 @@
 ## Number Guessing Game 🎲
 
-A simple Python program where the computer picks a random number between 1 and 20, and the player has to guess it.
+A simple Python program where the computer picks a random number between 1 and 20, and the player have to guess it.
 
 ## Features
 - Random number generation between 1–20
