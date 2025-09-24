@@ -1,5 +1,3 @@
-
-
 # Python Starter Projects 🐍
 
 This repository contains beginner-friendly Python projects that I am building as part of my learning journey. Each project is simple, interactive, and helps me practice the basics of Python programming such as loops, conditions, functions, and input handling.
@@ -42,7 +40,21 @@ A console-based task manager that allows users to keep track of their daily task
 * Remove completed tasks.
 * Handles empty task lists gracefully.
 
-📂 File: `todo_list.py`
+📂 File: `todo-list.py`
+
+---
+
+### 4. Expense Tracker 💸
+
+A console-based Python program to **add, view, and delete daily expenses**. Expenses are stored in a text file (`expense.txt`) for persistence.
+
+* Add expenses with amount 💰, category 🏷, date 📅, and description 📝
+* View all saved expenses with serial numbers
+* Delete expenses safely by serial number
+* Input validation for numbers and categories
+* Exit the program safely
+
+📂 File: `expense-tracker.py`
 
 ---
 
@@ -53,16 +65,3 @@ A console-based task manager that allows users to keep track of their daily task
    ```bash
    git clone https://github.com/OmkarPawar2005/python-starter-projects.git
    cd python-starter-projects
-   ```
-2. Navigate to the project folder and run the Python file. For example:
-
-   ```bash
-   python calculator.py
-   python number_guessing_game.py
-   python todo_list.py
-   ```
-3. Follow the on-screen instructions to interact with the project.
-
----
-
-
